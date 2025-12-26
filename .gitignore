@@ -1,0 +1,9 @@
+# Fichiers système
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Fichiers temporaires SQL ou logs
+*.log
+*.bak
+*.tmp
